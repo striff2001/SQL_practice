@@ -66,7 +66,7 @@
 
 # ERD
 
-![ERD](assets\hotel_ERD.png)
+![ERD](assets/hotel_ERD.png)
 
 
 # Задания

@@ -75,7 +75,7 @@
 
 # ERD
 
-![ERD](assets\organization_ERD.png)
+![ERD](assets/organization_ERD.png)
 
 
 # Задания

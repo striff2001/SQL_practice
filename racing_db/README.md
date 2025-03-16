@@ -67,7 +67,7 @@
 
 # ERD
 
-![ERD](assets\racing_ERD.png)
+![ERD](assets/racing_ERD.png)
 
 
 # Задания

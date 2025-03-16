@@ -76,7 +76,7 @@
 
 # ERD
 
-![ERD](assets\transport_ERD.png)
+![ERD](assets/transport_ERD.png)
 
 
 # Задания
